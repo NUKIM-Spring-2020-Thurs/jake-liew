@@ -34,7 +34,7 @@
             就讀科系 : <input type = "text" placeholder = "資管110級" name = "ziguan"> </br>
         </p>
         <p> 
-            請選擇您的飲食偏好 : </br>
+            飲食偏好 : </br>
                 <input type = radio name = "meal" value = "normal">葷
                 <input type = radio name = "meal" value = "vege">素
         </p>
